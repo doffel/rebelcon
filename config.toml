@@ -1,8 +1,10 @@
+publishDir = "docs"
+
 # Site settings
 baseurl = "https://rebelconf.com"
 languageCode = "en-us"
 title = "RebelConf 2017"
-theme = "hugo-freelancer-theme"
+theme = "hugo-freelancer-theme-master"
 
 [params]
     name = "Rebel Conf"
