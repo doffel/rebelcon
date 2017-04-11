@@ -14,6 +14,7 @@ theme = "hugo-freelancer-theme-master"
 
     [params.navigation]
         brand = "Rebel Conf"
+        logo = "rebelconf-logo-blue.png"
         ticketsUrl = "#"
 
     [params.header]
