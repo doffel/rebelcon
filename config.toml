@@ -1,0 +1,54 @@
+# Site settings
+baseurl = "https://rebelconf.com"
+languageCode = "en-us"
+title = "RebelConf 2017"
+theme = "hugo-freelancer-theme"
+
+[params]
+    name = "Rebel Conf"
+    # Custom assets
+	custom_css = ["css/rebelconf.css"]
+	custom_js  = []
+
+    [params.navigation]
+        brand = "Rebel Conf"
+        ticketsUrl = "#"
+
+    [params.header]
+        # Copy your own image into './static/img/'' if you wish
+        image = "rebelconf-logo.png"
+        tagline = "Cork's Software Engineering Conference"
+        subtitle = "Agile | Engineering best practices | Design"
+
+    [params.portfolio]
+        # All projects defined in their own files. You can find example projects
+        # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
+        # at the root of this Hugo site.
+        # For more informtion take a look at the README.
+        title = "Speakers"
+
+        [params.portfolio.modal]
+            client = "Client"
+            date = "Date"
+            category = "Category"
+            buttontext = "Close"
+
+    [params.about]
+        title = "About"
+        left = "Duis ut tellus metus. Ut hendrerit scelerisque odio a auctor. Quisque rhoncus bibendum elit, vitae mattis diam. Fusce ultrices pellentesque sagittis. Ut sit amet elit tristique, fermentum dui sed, vulputate elit."
+        right = "Pellentesque ut tincidunt urna, quis vestibulum est. Ut facilisis facilisis vulputate. Morbi mi libero, lacinia iaculis interdum sed, lacinia vel ipsum."
+
+
+    [params.schedule]
+        title = "Schedule"
+        left = "Duis dui justo, consequat a nibh nec, rhoncus semper tellus. Pellentesque id quam nec urna sodales imperdiet sed vitae turpis. Pellentesque auctor cursus purus eget semper. Fusce laoreet fermentum purus in accumsan. Fusce varius, magna vel finibus laoreet, ex nulla sollicitudin lorem, eget rhoncus leo dolor gravida lectus. Donec in nisi vel nisi efficitur ornare. Curabitur et interdum nisl."
+        right = "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam bibendum, elit quis interdum vestibulum, turpis nisl porttitor magna, sollicitudin sodales libero dui ac lectus. Fusce sed commodo massa. Pellentesque aliquam cursus mauris in tempor. Praesent porta arcu at nisl tempus, ut elementum dui aliquam. Fusce venenatis luctus nisi ac varius. Aliquam placerat id nisl eget fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;"
+
+	[params.location]
+        title = "Location"
+        place = "Republic of Work"
+        address = "12 South Mall, Cork, Ireland"
+
+    [params.sponsors]
+        title = "Sponsors"
+
