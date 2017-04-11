@@ -78,3 +78,12 @@ a.active {
     outline: 0;
     color: #a5271e;
 }
+
+div.speaker-title {
+	font-size: 1.25em;
+	margin-bottom: 20px;
+}
+
+#portfolio .portfolio-item .portfolio-link .caption {
+	background: rgba(165,39,30,.8);
+}

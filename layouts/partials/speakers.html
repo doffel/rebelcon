@@ -7,15 +7,15 @@
             </div>
         </div>
         <div class="row">
-            {{ range $.Site.Data.projects }}
+            {{ range $.Site.Data.speakers }}
             <div class="col-sm-4 portfolio-item">
                 <a href="#portfolioModal{{ .modalID }}" class="portfolio-link" data-toggle="modal">
                     <div class="caption">
                         <div class="caption-content">
-                            <i class="fa fa-search-plus fa-3x"></i>
+                            {{ .name }}
                         </div>
                     </div>
-                    <img src="img/portfolio/{{ .img }}" class="img-responsive">
+                    <img src="img/speakers/{{ .img }}" class="img-responsive">
                 </a>
             </div>
             {{ end }}
