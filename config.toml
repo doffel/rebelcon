@@ -15,7 +15,7 @@ theme = "hugo-freelancer-theme-master"
     [params.navigation]
         brand = "Rebel Conf"
         logo = "rebelconf-logo-blue.png"
-        ticketsUrl = "#"
+        ticketsUrl = "https://www.eventbrite.ie/e/rebelcon-tickets-33809048775"
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
