@@ -87,3 +87,12 @@ div.speaker-title {
 #portfolio .portfolio-item .portfolio-link .caption {
 	background: rgba(165,39,30,.8);
 }
+
+#portfolio .speakers-temp {
+	font-size: 20px;
+	text-align: center;
+}
+
+#portfolio .speakers-temp .call-for-speakers {
+	font-size: 25px ;
+}
