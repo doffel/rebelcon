@@ -3,23 +3,23 @@ publishDir = "docs"
 # Site settings
 baseurl = ""
 languageCode = "en-us"
-title = "RebelConf 2017"
+title = "RebelCon 2017"
 theme = "hugo-freelancer-theme-master"
 
 [params]
-    name = "Rebel Conf"
+    name = "Rebel Con"
     # Custom assets
 	custom_css = ["css/rebelconf.css"]
 	custom_js  = []
 
     [params.navigation]
-        brand = "Rebel Conf"
-        logo = "rebelconf-logo-blue.png"
+        brand = "Rebel Con"
+        logo = "rebel_con120.png"
         ticketsUrl = "https://www.eventbrite.ie/e/rebelcon-tickets-33809048775"
 
     [params.header]
         # Copy your own image into './static/img/'' if you wish
-        image = "rebelconf-logo.png"
+        image = "rebel_con300.png"
         tagline = "Cork's Software Engineering Conference"
         subtitle = "Agile | Engineering best practices | Design"
 

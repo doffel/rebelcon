@@ -96,3 +96,9 @@ div.speaker-title {
 #portfolio .speakers-temp .call-for-speakers {
 	font-size: 25px ;
 }
+
+.sponsor-image {
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+} 
