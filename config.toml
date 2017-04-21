@@ -21,7 +21,7 @@ theme = "hugo-freelancer-theme-master"
         # Copy your own image into './static/img/'' if you wish
         image = "rebel_con300.png"
         tagline = "Cork's Software Engineering Conference"
-        subtitle = "Agile | Engineering best practices | Design"
+        subtitle = "Latest technology | Culture | Development practices"
 
     [params.portfolio]
         # All projects defined in their own files. You can find example projects
