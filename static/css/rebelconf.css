@@ -101,4 +101,30 @@ div.speaker-title {
 	height: 60px;
 	line-height: 60px;
 	text-align: center;
-} 
+}
+
+div.speaker-talk-title {
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+
+span.speaker-lightning-talk {
+	font-size: 15px;
+	opacity: 0.5;
+}
+
+div.speaker-bio {
+	color: #999999;
+	text-align: justify;
+}
+
+div.speaker-twitter {
+	font-size: 20px;
+	color: #0084b4;
+	margin-top: 20px;
+}
+
+img.speaker-modal-image {
+	width: 60%;
+}

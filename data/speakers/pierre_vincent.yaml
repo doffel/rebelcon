@@ -1,6 +1,7 @@
 modalID: 7
 name: Pierre Vincent
-title: Technical Team Lead
+title: SRE Manager at Poppulo
 img: pierre_vincent.jpg
-twitter: "@PierreVincent"
-description: ""
+twitter: "PierreVincent"
+talkTitle: "Monitoring: How to increase visibility of distributed systems in production"
+description: "Pierre is SRE Manager at Poppulo in Cork, Ireland. He is passionate about enabling engineers to deliver great software with speed. He is helping teams to embrace DevOps practices, focusing on building maintanable applications and continuously improving their processes."

@@ -12,13 +12,28 @@
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
                     <div class="modal-body">
-                        <img src="img/speakers/{{ .img }}" class="img-responsive img-centered" alt="">
+                        
 
+                        <div class="speaker-talk-title">
+                            {{ .talkTitle }}
+                            {{ if .lightningTalk }}
+                                <br/><span class="speaker-lightning-talk">[Lightning talk]</small>
+                            {{ end }}
+                        </div>
+                                              
+
+                        <img src="img/speakers/{{ .img }}" class="img-responsive img-centered speaker-modal-image" alt="">
 
                         <h2>{{ .name }}</h2>
                         <div class="speaker-title">{{ .title }}</div>
-                        <p>{{ .description | markdownify }}</p>
-                        
+
+                        <div class="speaker-bio">{{ .description | markdownify }}</div>
+
+                        {{ if .twitter }}
+                        <div class="speaker-twitter">
+                            <i class="fa fa-twitter" aria-hidden="true"></i> @{{ .twitter }}
+                        </div>
+                        {{ end }}
                     </div>
                 </div>
             </div>

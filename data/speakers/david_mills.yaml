@@ -1,6 +1,7 @@
 modalID: 6
 name: David Mills
-title: Chief Engineer
-img: david_mills.png
-twitter: "@Dave_m316"
-description: ""
+title: Chief Engineer at Xanadu Consultancy
+img: speaker_generic.png
+twitter: "Dave_m316"
+description: "David is an experienced software engineer with a broad range of technologies in the enterprise environment. He has worked on diverse projects from data intensive back-end and middleware systems through to user facing web and mobile applications. David has a history of software design and implementation on projects for many clients including large corporates in the financial and telecommunications sectors. Since joining Xanadu, David has been a leader in designing and architecting a number of projects. He has been a key member of Xanadu’s team working on the Matchbook platform. David has used his knowledge of the existing platform, his technological skill and architectural experience to design the new sports betting exchange for Matchbook."
+talkTitle: Building a Platform that Handles as Many Requests as Amazon.com
