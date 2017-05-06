@@ -121,8 +121,12 @@ div.speaker-bio {
 
 div.speaker-twitter {
 	font-size: 20px;
-	color: #0084b4;
 	margin-top: 20px;
+}
+
+div.speaker-twitter a {
+	color: #0084b4;
+	text-decoration: none;
 }
 
 img.speaker-modal-image {
