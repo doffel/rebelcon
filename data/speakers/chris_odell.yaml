@@ -1,7 +1,7 @@
 modalID: 5
 name: Chris O'Dell
 title: Software Specialist at SkeltonThatcher Consulting
-img: speaker_generic.png
+img: chris_odell.jpg
 twitter: "ChrisAnnODell"
 description: "Chris has been developing software with Microsoft technologies for over 12 years.  She currently works at Skelton Thatcher Consulting helping our clients to understand, adopt, and sustain good practices for building and operating software systems. She has led teams delivering highly available Web APIs, distributed systems and cloud based services. She has also led teams developing internal build and deployment tooling using the unconventional mix of .Net codebases onto AWS infrastructure. Chris promotes practices we know as Continuous Delivery, including TDD, version control, and Continuous Integration."
 talkTitle: You build it, you run it
