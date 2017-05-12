@@ -1,7 +1,7 @@
 modalID: 10
 name: David Lynam
 title: Technical Team Lead at Poppulo
-img: speaker_generic.png
+img: david_lynam.jpg
 twitter: "t00cool"
 description: "Originally a games developer, David has transitioned to web development where he's worked most of the last 10 years. He currently works with Poppulo developing a world class communication tool suite. He has a large passion for learning and improving and this had led to down the functional programming route which in turn has opened his eyes to Elm."
 talkTitle: Solving Javascript Gripes with Elm
