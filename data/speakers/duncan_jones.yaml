@@ -1,7 +1,7 @@
 modalID: 16
 name: Duncan Jones
-title: "Senior Developer at HedgeFacts"
+title: Senior Developer at HedgeFacts
 img: duncan_jones.jpg
-twitter:@merrion
+twitter: merrion
 description: "Duncan is a Microsoft MVP and developer with a background in the financial services industry. He has a personal interest in highly scalable systems, which has lead to Event Sourcing (by way of CQRS).  Currently working with HedgeFacts, a supplier of software and services to the Hedge Fund industry.  He previously presented talks on printing and on debugging way back in 2006."
 talkTitle: "Introduction to event sourcing and CQRS"
