@@ -34,7 +34,7 @@ header .intro-text .tagline {
     font-weight: 300;
 }
 
-section.schedule {
+section.schedule, section.conduct {
 	color: #fff;
     background-color: #0b1a33;
 }
