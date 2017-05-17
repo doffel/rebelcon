@@ -132,3 +132,56 @@ div.speaker-twitter a {
 img.speaker-modal-image {
 	width: 60%;
 }
+
+table.schedule-table {
+	border-right: 1px #fff solid;
+}
+
+table.schedule-table th, table.schedule-table td {
+	padding: 20px;
+	text-align: center;
+}
+
+table.schedule-table .schedule-green, table.schedule-table .schedule-blue {
+	color: #333;
+}
+
+table.schedule-table th.schedule-green {
+	background-color: #66ad4a;
+	width: 45%;
+	border-left: 1px #fff solid;
+	border-top: 1px #fff solid;
+}
+
+table.schedule-table .schedule-time {
+	border-left: 1px #fff solid;
+}
+
+table.schedule-table th.schedule-blue {
+	background-color: #6d9eeb;
+	width: 45%;
+	border-top: 1px #fff solid
+}
+
+table.schedule-table td.schedule-green {
+	background-color: #e1f9de;
+}
+
+table.schedule-table td.schedule-blue {
+	background-color: #c9daf8;
+}
+
+table.schedule-table div.schedule-title {
+	font-weight: bold;
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
+table.schedule-table td.schedule-time {
+	vertical-align: top;
+}
+
+table.schedule-table tr {
+	border-bottom: 1px #fff solid;
+}
+
