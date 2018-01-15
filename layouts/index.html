@@ -2,6 +2,7 @@
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
     <head>
         {{ partial "head.html" . }}
+        <script src="https://use.fontawesome.com/514e69d1e8.js"></script>
     </head>
     <body id="page-top" class="index">
 
@@ -9,13 +10,15 @@
 
         {{ partial "header.html" . }}
 
+        {{ partial "2018-teaser.html" . }}
+
         {{ partial "about.html" . }}
 
         {{ partial "speakers.html" . }}
 
         {{ partial "schedule.html" . }}
 
-        {{ partial "location.html" . }}
+        <!-- {{ partial "location.html" . }} -->
 
         {{ partial "code-of-conduct.html" . }}
 

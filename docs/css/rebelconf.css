@@ -189,3 +189,36 @@ table.schedule-table tr {
 	border-bottom: 1px #fff solid;
 }
 
+section#teaser div.teaser-dates {
+	text-align: center;
+	font-size:2em;
+}
+
+section#teaser div.teaser-venue {
+	text-align: center;
+	font-size:1.2em;
+}
+
+section#teaser div.teaser-link {
+	text-align: center;
+	font-size:2em;
+	margin-top: 20px;
+}
+
+section#teaser div.teaser-keynote div.teaser-keynote-speaker {
+	float: left;
+	width: 30%;
+}
+
+section#teaser div.teaser-keynote div.teaser-keynote-speaker div.teaser-keynote-speaker-title {
+	font-size: 30px;
+}
+
+section#teaser div.teaser-keynote div.teaser-keynote-speaker img {
+	width: 100%;
+}
+
+section#teaser div.teaser-keynote div.teaser-keynote-description {
+	float: left;
+	width: 70%;
+}
